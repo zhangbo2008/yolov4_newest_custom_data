@@ -1,0 +1,1 @@
+E:/ocr_business_license/voc_trainval_data/VOCdevkit/VOC2007/JPEGImages/0001.jpg 79,161,207,183,0
